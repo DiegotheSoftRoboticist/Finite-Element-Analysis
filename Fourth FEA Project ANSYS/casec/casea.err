@@ -1,0 +1,18 @@
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       13:11:38
+
+ *** ERROR ***                           CP =       2.406   TIME= 13:12:10
+ Element type 1 cannot be deleted while elements of this type exist.     
+ The ETDELE command is ignored.                                          
+
+ *** ERROR ***                           CP =       2.641   TIME= 13:12:15
+ Element type 1 cannot be deleted while elements of this type exist.     
+ The ETDELE command is ignored.                                          
+
+ *** ERROR ***                           CP =       2.750   TIME= 13:13:16
+ Element type 1 cannot be deleted while elements of this type exist.     
+ The ETDELE command is ignored.                                          
+
+ *** ERROR ***                           CP =       3.203   TIME= 13:13:46
+ This function requires defined volumes.                                 
+  No volumes are currently defined.                                      
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       18:06:00
