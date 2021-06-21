@@ -1,0 +1,14 @@
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       09:34:24
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       09:37:36
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       09:37:56
+/COM,ANSYS RELEASE Release 19.0      BUILD 19.0      UP20171214       11:57:42
+
+ *** WARNING ***                         CP =       3.406   TIME= 12:01:10
+ PIPE288/289 element 1 with thin pipe formulation (KEYOPT(4) = 1)        
+ references pipe section ID 1 which has a radius to thickness (R/t)      
+ ratio of 7.  If the R/t ratio < 50, please use the thick pipe           
+ formulation (KEYOPT(4) = 2).  Checking for this discontinues.           
+
+ *** WARNING ***                         CP =       4.422   TIME= 12:04:11
+ SECPLOT is not a recognized POST1 command, abbreviation, or macro.      
+  This command will be ignored.                                          
